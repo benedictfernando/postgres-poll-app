@@ -1,2 +1,5 @@
 # environmental variables
 .env
+
+# virtual environment folder
+env/
